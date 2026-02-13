@@ -11,7 +11,7 @@ public class DivisionHandling {
             System.out.println(result);
            }
          catch (ArithmeticException e){
-             System.out.println("Division by zero error");
+             System.out.println("Divide by zero error");
              }
          sc.close();
        
